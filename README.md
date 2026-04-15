@@ -141,6 +141,7 @@ python3 -m streamlit run app/app.py
 * Real-time data ingestion (API integration)
 
 ---
+Live Demo:https://38katsanskriti.streamlit.app/
 
 ## 👩‍💻 Author
 
@@ -151,3 +152,4 @@ python3 -m streamlit run app/app.py
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
